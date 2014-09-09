@@ -24,20 +24,22 @@ e.g.
 
 ```
 {
-	title: "The Diamondtina Drover",
-	artist: "Christy Moore",
-	album: "Ordinary Man",
-	cover: "http://img.xiami.net/images/album/img38/21038/130524.jpg"
+    title: "The Diamondtina Drover",
+    artist: "Christy Moore",
+    album: "Ordinary Man",
+    url: "http://m5.file.xiami.com/1/38/21038/130524/1320819_597112_l.mp3?auth_key=b115dcf56393e373d3e10ac4da902f04-1410393600-0-null",
+    cover: "http://img.xiami.net/images/album/img38/21038/130524.jpg"
 }
 
 ```
 
-====
+----
 
 extracted from [perber.com](http://www.perber.com)
 
 by: hanjiyun
 
+----
 MIT LICENSE
 
 
