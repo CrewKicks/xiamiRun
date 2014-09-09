@@ -17,7 +17,7 @@ http://127.0.0.1:1337/xiami/run?song=http://www.xiami.com/song/[song's id]
 
 e.g.
 
-[http://182.92.148.39:1337/xiami/run?song=http://www.xiami.com/song/1320819](http://182.92.148.39/xiami/run?song=http://www.xiami.com/song/1320819)
+[http://182.92.148.39:1337/xiami/run?song=http://www.xiami.com/song/1320819](http://182.92.148.39:1337/xiami/run?song=http://www.xiami.com/song/1320819)
 
 ### Response:
 
