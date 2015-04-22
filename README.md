@@ -2,22 +2,20 @@
 
 ![xiamiRun](http://ww1.sinaimg.cn/large/61b8bbf4jw1ek6de23vn4j20di0c0weu.jpg)
 
-A service for parsing the real path of Xiami song.
+A service for parsing the real path of Xiami music.
 
 
-## Usage:
+## Run:
 
 ```
 sails lift
 ```
 
-### Visit:
+### Request:
 
-http://127.0.0.1:1337/xiami/run?song=http://www.xiami.com/song/[song's id]
-
-e.g.
-
-[http://182.92.148.39:1337/xiami/run?song=http://www.xiami.com/song/1320819](http://182.92.148.39:1337/xiami/run?song=http://www.xiami.com/song/1320819)
+```
+http://127.0.0.1:1337/xiami/run?song=http://www.xiami.com/song/[id]
+```
 
 ### Response:
 
@@ -35,9 +33,7 @@ e.g.
 
 ----
 
-extracted from [perber.com](http://www.perber.com)
-
-by: hanjiyun
+[perber.com](http://www.perber.com)
 
 ----
 MIT LICENSE
