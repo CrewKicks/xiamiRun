@@ -31,6 +31,11 @@ http://127.0.0.1:1337/xiami/run?song=http://www.xiami.com/song/[id]
 
 ```
 
+
+### Demo
+
+[xiamiRun demo](http://xiamirun.avosapps.com/run?song=http://www.xiami.com/song/1774205606)
+
 ----
 
 [perber.com](http://www.perber.com)
