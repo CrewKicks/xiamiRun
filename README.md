@@ -2,7 +2,7 @@
 
 <img src="http://ww1.sinaimg.cn/large/61b8bbf4jw1ek6de23vn4j20di0c0weu.jpg" width="200" height="200">
 
-一个解析虾米音乐 mp3 真实地址的服务。
+一个解析虾米音乐 mp3 真实地址的服务。node express。
 
 
 ### 运行:
