@@ -1,23 +1,23 @@
 # xiamiRun
 
-![xiamiRun](http://ww1.sinaimg.cn/large/61b8bbf4jw1ek6de23vn4j20di0c0weu.jpg)
+<img src="http://ww1.sinaimg.cn/large/61b8bbf4jw1ek6de23vn4j20di0c0weu.jpg" width="200" height="200">
 
-A service for parsing the real path of Xiami music.
+一个解析虾米音乐 mp3 真实地址的服务。
 
 
-## Run:
+### 运行:
 
 ```
 sails lift
 ```
 
-### Request:
+### 浏览器中输入地址，后面那个 url 是虾米的歌曲地址
 
 ```
 http://127.0.0.1:1337/xiami/run?song=http://www.xiami.com/song/[id]
 ```
 
-### Response:
+### 返回:
 
 
 ```
@@ -38,6 +38,12 @@ http://127.0.0.1:1337/xiami/run?song=http://www.xiami.com/song/[id]
 
 ----
 
+
+### 注意
+
+如果运行在国外的服务器上，会被虾米屏蔽，所以写了一个可以运行在国内 Leancloud (https://leancloud.cn) 上的版本： https://github.com/naoyeye/xiamiRunLeanCloud ，上面的 Demo 即为 Leancloud 版。
+
+### 服务于
 [perber.com](http://www.perber.com)
 
 ----
