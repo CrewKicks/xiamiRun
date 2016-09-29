@@ -1,7 +1,7 @@
 
 # 2016-05-09 UPDATE:
 
-用 express.js 重写了一版，运行在 leancloud 上吗，代码和架构更简单，建议使用。
+用 express.js 重写了一版，可以直接部署在 leancloud 上，代码和架构更简单，建议使用。
 
 相关 Github repo : https://github.com/naoyeye/xiamiRunLeanCloud
 
